@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkholujs_github_io=self.webpackChunkholujs_github_io||[]).push([[5657],{9550:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
